@@ -1,4 +1,4 @@
-#Bounce Ball Game 🎾✨
+#Bounce_Ball_Game 🎾✨
 Bounce Ball Game is a fun and addictive game where you control a bouncing ball to keep it in play while avoiding obstacles and collecting points. Originally created on Scratch, it’s a simple yet challenging arcade game that tests your reflexes and coordination.
 
 🎮 Features:
@@ -12,4 +12,4 @@ Use the arrow keys or mouse (depending on setup) to control the paddle.
 Bounce the ball and prevent it from hitting the ground.
 Challenge yourself to achieve the highest score possible!
 🌟 Try It Out:
-Play the original version here on Scratch.
+Play the original version here on Scratch:https://scratch.mit.edu/projects/876861632
